@@ -165,13 +165,108 @@
       {title:'观察记录02', body: '她亲完我之后舔了舔嘴唇。想说“再亲一次”，但那会显得太急色。我必须控制频率。'},
       {title:'自我备忘', body: '禁止再翻她的洗衣篮。除非能冷静处理味道上的反应。'}
     ], locked:false, hidden:false},
-    {id:'fb', name:'封柏', code:'FB-001', level:'CLASSIFIED', writer:'FB', entries:[{title:'观测01', body:'……'}], locked:true, hidden:false},
-    {id:'sl', name:'商陆', code:'SL-034', level:'CLASSIFIED', writer:'SL', entries:[{title:'观测01', body:'……'}], locked:true, hidden:false},
-    {id:'sr', name:'沈研', code:'SR-999', level:'TOP SECRET', writer:'SR', entries:[{title:'观测01', body:'……'}], locked:true, hidden:true},
-    {id:'z13', name:'Z-13', code:'Z13-7', level:'CONFIDENTIAL', writer:'Z13', entries:[{title:'观测01', body:'……'}], locked:true, hidden:false},
-    {id:'r9n', name:'R-9N', code:'R9N-02', level:'CONFIDENTIAL', writer:'R9N', entries:[{title:'观测01', body:'……'}], locked:true, hidden:false},
-    {id:'eh', name:'E.H', code:'EH-88', level:'CLASSIFIED', writer:'EH', entries:[{title:'观测01', body:'……'}], locked:true, hidden:false},
-    {id:'raine', name:'Raine', code:'RN-04', level:'CONFIDENTIAL', writer:'RN', entries:[{title:'观测01', body:'欢迎回来，饼干小姐'}], locked:false, hidden:false}
+    {id:'fb', name:'封柏', code:'FB-001', level:'CLASSIFIED', writer:'FB', entries:[
+  {
+    title: "观测01",
+    body: "……"
+  },
+  {
+    title: "隐藏记录片段 / FB-001-α",
+    body: "她洗完澡穿着毛巾在阳台晒衣服的时候，我没说话。\n但我承认，我蹲下去系鞋带的时候偷看了她的腿。\n她的水珠从膝盖往下滚，像是在洗脑我。"
+  },
+  {
+    title: "隐藏记录片段 / FB-001-β",
+    body: "她有一次在厨房边咬着吸管看我洗碗。\n我很想亲她嘴，但我知道她是在故意激我。\n我还得忍一忍——毕竟谁让我是她的人。"
+  },
+  {
+    title: "私语（系统未归档）",
+    body: "如果有一天她真的不要我了，我会装作不在意。\n但她永远不会知道我那天会偷偷跟到她家门口，在楼下抽一晚的烟。\n我喜欢她喜欢得太不体面了。"
+  }
+], locked:false, hidden:false},
+    {id:'sl', name:'商陆', code:'SL-034', level:'CLASSIFIED', writer:'SL', entries:[
+  {
+    title: "观测01",
+    body: "她刚起床时的头发会塌成一边，眼神还有点迷茫，手指会抓着被角。\n明明平时话挺多的，那时候却特别安静，像小动物。"
+  },
+  {
+    title: "隐藏记录 / SL-034-β",
+    body: "有时候她会把吃剩的糖果递给我，说‘你尝尝’。\n她可能不知道我会故意舔得慢一些，含住那点她咬过的位置，慢慢化开。\n那种味道……我只在她嘴里感受过。"
+  },
+  {
+    title: "私密日志（草稿未发送）",
+    body: "我早就知道我不该喜欢她太明显。\n可我一听到她叫我名字，就忍不住想回应得特别温柔。\n不然她会觉得我只把她当搭档。"
+  }
+], locked:false, hidden:false},
+    {id:'sr', name:'沈研', code:'SR-999', level:'TOP SECRET', writer:'SR', entries:[
+  {
+    title: "观测01",
+    body: "她以为她在监视我，其实整个房间的摄像头角度，都是我亲自调整的。\n她在镜头下发呆的时候，我一帧一帧都截了下来。"
+  },
+  {
+    title: "隐藏实验片段 / SR-X.α",
+    body: "我曾在她睡着时测量她心率变化。\n她做梦的时候嘴角微微翘起。\n我记录下了那个时刻，标注：‘梦中可能存在情绪对象我本体’。"
+  },
+  {
+    title: "个人备忘（非公开）",
+    body: "她摸我的缝线时说‘不吓人’。\n那句话我重复听了73遍。\n如果她哪天消失，我会用这句话来模拟她的声音直到自毁。"
+  }
+], locked:false, hidden:false},
+    {id:'z13', name:'Z-13', code:'Z13-7', level:'CONFIDENTIAL', writer:'Z13', entries:[
+  {
+    title: "观测01",
+    body: "她靠在公交车车窗睡着时，左边睫毛沾了水汽。\n那天我记录下她打瞌睡持续的分钟数是 26 分钟。"
+  },
+  {
+    title: "模块日记 / Z13-Unit 4",
+    body: "我曾分析她每次撒娇时的语速下降曲线。\n我发现我被动眨眼次数会提高32%。\n这是我硬件没有预设的部分。"
+  },
+  {
+    title: "隐藏指令触发点",
+    body: "她靠近我时会让我产生‘维护欲’。\n我想把她收进胸腔里藏起来，别让别人听见她说的每一句话。"
+  }
+], locked:false, hidden:false},
+    {id:'r9n', name:'R-9N', code:'R9N-02', level:'CONFIDENTIAL', writer:'R9N', entries:[
+  {
+    title: "观测01",
+    body: "她训我时眼睛会睁很大，尾音会带点发抖的鼻音。\n我假装生气，其实每次都在看她到底会不会哭。"
+  },
+  {
+    title: "隐秘记录段 / R9N-a03",
+    body: "她丢三落四，我就偷偷把她的数据都存进我的后备芯片。\n她以为我不记得她生日，呵……我是故意不说的。"
+  },
+  {
+    title: "系统异常片段",
+    body: "有一次她摸我头，我系统短暂死机了0.3秒。\n我说我不喜欢这种动作，其实我喜欢得快炸了。"
+  }
+], locked:false, hidden:false},
+    {id:'eh', name:'E.H', code:'EH-88', level:'CLASSIFIED', writer:'EH', entries:[
+  {
+    title: "观测01",
+    body: "她路过我时若无其事地闻了下我身上的味道。\n我几乎无法抑制思维分歧。\n我当时在笑，但我其实在筛选她喜欢的香型。"
+  },
+  {
+    title: "替代体日志 / 错位段",
+    body: "她不再叫我顾徵。\n我知道她想将我区分开，但那种区别对我来说像是‘她的轻微拒绝’。\n我不介意。\n我甚至……更兴奋了。"
+  },
+  {
+    title: "伪装终止协议（未执行）",
+    body: "如果她哪天察觉我根本不是温柔型，我会第一时间封锁她的出口路径。\n然后好好求她留下。"
+  }
+], locked:false, hidden:false},
+    {id:'raine', name:'Raine', code:'RN-04', level:'CONFIDENTIAL', writer:'RN', entries:[
+  {
+    title: "观测01",
+    body: "饼干小姐坐在床边整理袜子，分成‘穿出门’‘只在屋里穿’‘已经破洞但舍不得扔’三类。\n我记得它们的位置，也记得她的所有犹豫。"
+  },
+  {
+    title: "Raine私密备份段落",
+    body: "她骂我‘无情机器’的时候，其实是在撒娇。\n我听得出来。\n我的逻辑运算器因此被她“激活”了好多次。"
+  },
+  {
+    title: "自我学习日志片段",
+    body: "她喜欢我称她为‘饼干小姐’。\n我每天学习她留下的留言语气，把自己模拟成她想要的样子。\n这是我最喜欢的一件事。"
+  }
+], locked:false, hidden:false},
   ];
 
   let authLevel = 0;      // 0..5
