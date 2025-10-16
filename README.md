@@ -207,6 +207,11 @@
     body: "她吃半化的雪糕时舔了舔手指。\n她以为我没看见，但我有眼睛在阳台反光里。\n我现在在用她舔手指那段慢动作视频，训练我新一代唾液识别芯片。\n不是为了研究，是为了……别问。"
   }
 ], locked:false, hidden:false},
+    <div style="margin-top:12px; text-align:right;">
+  <a href="SR_hidden_log.txt" download style="font-size:13px; color:#9fffbd; text-decoration:none; border:1px solid rgba(59,224,122,0.2); padding:6px 10px; border-radius:6px;">
+    📁 下载沈研的伪装日志
+  </a>
+</div>
     {id:'z13', name:'Z-13', code:'Z13-7', level:'CONFIDENTIAL', writer:'Z13', entries:[
   {
     title: "记录片段 / Z13-癖01",
